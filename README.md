@@ -1,4 +1,3 @@
-node atividade02.jsnode atividade02.jsnode atividade02.jsnode atividade02.jsnode atividade02.jsnode atividade02.js# TF - Atividade 02 - Tipos Primitivos e Escopo Léxico
 
 Este projeto contém uma atividade prática sobre conceitos fundamentais de JavaScript, incluindo tipos primitivos, operadores, escopo léxico e assincronismo.
 
